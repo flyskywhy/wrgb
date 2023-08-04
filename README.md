@@ -18,7 +18,7 @@ To train:
 
 To detect:
 
-    python detect.py --weights runs/yolov5s_wrgb/exp/weights/best.pt --img wrgb --source SOME.jpg
+    python detect.py --weights runs/yolov5s_wrgb/exp/weights/best.pt --img-size 416 --source SOME.jpg
 
 To mobile optimized model exported to `yolov5s.ptl`:
 
