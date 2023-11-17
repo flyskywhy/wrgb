@@ -2,6 +2,8 @@
 
 Labeled by [yolo_mark](https://github.com/alexeyab/yolo_mark).
 
+`img-size` need be multiple of max stride 32.
+
 ```
 parent
 ├── yolov5
